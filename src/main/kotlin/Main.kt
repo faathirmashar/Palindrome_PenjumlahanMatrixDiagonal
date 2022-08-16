@@ -2,7 +2,7 @@ fun main() {
     // Palindrome
     println(palindrome("katak"))
     println(palindrome("basi"))
-    println("isi")
+    println(palindrome("isi"))
 
     // Penjumlahan diagonal
     val matrix = arrayListOf(arrayListOf(11,2,4), arrayListOf(4,5,6), arrayListOf(10,8,12))
